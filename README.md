@@ -64,7 +64,8 @@ To modify or enhance the project:
 
 ## Credits
 
-Created by [Sam](http://www.samreddy.work)
+- Created by [Sam](http://www.samreddy.work)
+- Inspired by Sharpen.Design
 
 ## License
 
