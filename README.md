@@ -51,7 +51,7 @@ git clone https://github.com/[your-username]/[repository-name].git
 
 2. Open `index.html` in a web browser
 
-Or visit the live site: [https://[your-username].github.io/[repository-name]/](https://[your-username].github.io/[repository-name]/)
+Or visit the live site: [https://calluxpore.github.io/ID-Prompts/](https://calluxpore.github.io/ID-Prompts/)
 
 ## Development
 
