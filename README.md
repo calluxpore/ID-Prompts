@@ -64,6 +64,7 @@ To modify or enhance the project:
 
 ## Credits
 
+<<<<<<< HEAD
 - Created by [Sam](http://www.samreddy.work)
 - Inspired by Sharpen.Design
 
