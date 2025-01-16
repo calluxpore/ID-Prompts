@@ -53,20 +53,8 @@ git clone https://github.com/calluxpore/ID-Prompts.git
 
 Or visit the live site: [https://calluxpore.github.io/ID-Prompts/](https://calluxpore.github.io/ID-Prompts/)
 
-## Development
-
-To modify or enhance the project:
-
-1. Fork the repository
-2. Make your changes
-3. Test in a modern web browser
-4. Submit a pull request
-
 ## Credits
 
 - Created by [Sam](http://www.samreddy.work)
 - Inspired by Sharpen.Design
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details 
