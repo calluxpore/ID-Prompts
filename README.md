@@ -1,4 +1,4 @@
-# ID - Industrial Design Prompt Generator
+# ID - Industrial Design Prompt Generator.
 
 A creative tool designed to inspire and challenge industrial designers by generating unique design prompts across various categories.
 
